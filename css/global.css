@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   font-family: "fira sans", arial, sans-serif;
-  color: #141414;
+  color: var(--texto-header);
   /* margin-bottom: 1000px ; */
 }
 
